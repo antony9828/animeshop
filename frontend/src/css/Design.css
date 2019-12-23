@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Aldrich&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Sansation&display=swap');
+
+.NearHome {
+    width: 108px;
+    height: 18px;
+    object-fit: contain;
+    font-family: Aldrich;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: justify;
+    color: rgba(66, 0, 0, 0.73);
+  }
+
+  .Rectangle {
+    width: 174px;
+    height: 44px;
+    object-fit: contain;
+    background-image: linear-gradient(to bottom, #ed7979, #1e0fac);
+  }
+
+.SecondRow{
+    text-align: left !important;
+}
+
+  .SecondRowItem {
+    width: 46px;
+    height: 16px;
+    object-fit: contain;
+    font-family: Sansation;
+    font-size: 14px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: justify;
+    color: #2e2e2e;
+  }
